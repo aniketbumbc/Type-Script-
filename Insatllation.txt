@@ -1,0 +1,4 @@
+npm install -g typescript
+tsc --version 
+tsc file-name ( complier)
+node file-name run 
